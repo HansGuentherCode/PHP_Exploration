@@ -1,3 +1,3 @@
 @ECHO OFF
 
-ROBOCOPY "src" "E:\XAMPP\htdocs" /mir
+ROBOCOPY "src" "C:\Users\%USERNAME%\Herd\php_exploration\public" /mir

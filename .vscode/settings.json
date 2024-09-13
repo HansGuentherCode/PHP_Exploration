@@ -79,6 +79,7 @@
 	"editor.acceptSuggestionOnEnter": "on",
 	"editor.tabCompletion": "off",
 	"editor.quickSuggestionsDelay": 1000,
+	"editor.dragAndDrop": false,
 	
 	//"debug.console.closeOnEnd": true,
 	//"debug.openDebug": "neverOpen",

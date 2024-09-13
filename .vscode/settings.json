@@ -34,7 +34,7 @@
 	},
 	"workbench.statusBar.visible": true,
 	"window.zoomLevel": 0,
-	
+		
 	// C/C++ stuff
 	"C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0, NamespaceIndentation: All}",
 	"C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "newLine",
@@ -141,5 +141,9 @@
 			"input.h": "c",
 			"xstring": "cpp",
 			"utility": "c"
-		}
+		},
+	// Web stuff
+	"javascript.autoClosingTags": false,
+  	"typescript.autoClosingTags": false,
+  	"html.autoClosingTags": false,
 }

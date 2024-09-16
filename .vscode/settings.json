@@ -1,6 +1,6 @@
 {	
 	// Interface
-	"workbench.colorTheme": "Default Dark Modern",
+	"workbench.colorTheme": "Default Light Modern",
 	"explorer.excludeGitIgnore": true,
 	"files.exclude": 
 		{
@@ -34,7 +34,7 @@
 	},
 	"workbench.statusBar.visible": true,
 	"window.zoomLevel": 0,
-		
+	
 	// C/C++ stuff
 	"C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0, NamespaceIndentation: All}",
 	"C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "newLine",
@@ -45,7 +45,6 @@
 	"C_Cpp.clang_format_sortIncludes": false,
 	"C_Cpp.vcFormat.indent.namespaceContents": true,
 	"C_Cpp.vcFormat.indent.": true,
-	
 	
 	// Basic editor stuff
 	"editor.minimap.enabled": false,

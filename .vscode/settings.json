@@ -1,6 +1,6 @@
 {	
 	// Interface
-	"workbench.colorTheme": "Default Light Modern",
+	"workbench.colorTheme": "Visual Studio 2017 Dark - C++",
 	"explorer.excludeGitIgnore": true,
 	"files.exclude": 
 		{
